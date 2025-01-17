@@ -60,9 +60,3 @@ kill_processes "$PROCESS_NAMES"
 
 echo "Процесс завершен."
 
-### Запуск скрипта:
-
-Скрипт можно запустить следующим образом:
-
-```bash
-./killall_by_name.sh -s 9 proc1 proc2
